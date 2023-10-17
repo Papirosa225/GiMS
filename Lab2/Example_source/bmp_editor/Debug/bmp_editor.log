@@ -1,0 +1,22 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  bmp_editor.cpp
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(175,5): warning C4838: Преобразование из "WORD" в "BYTE" требует сужающего преобразования.
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(175,5): warning C4244: инициализация: преобразование "WORD" в "BYTE", возможна потеря данных
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(176,5): warning C4838: Преобразование из "LONG" в "DWORD" требует сужающего преобразования.
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(177,74): warning C4838: Преобразование из "DWORD" в "WORD" требует сужающего преобразования.
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(177,74): warning C4244: инициализация: преобразование "DWORD" в "WORD", возможна потеря данных
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(202,7): warning C4101: buf: неиспользованная локальная переменная
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(244,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(354,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(356,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(368,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(370,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(382,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(384,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(420,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(460,82): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(469,10): warning C4101: j: неиспользованная локальная переменная
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(469,7): warning C4101: i: неиспользованная локальная переменная
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\bmp_editor.cpp(495,20): warning C4018: <: несоответствие типов со знаком и без знака
+bmp_editor.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  bmp_editor.vcxproj -> E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\Debug\bmp_editor.exe

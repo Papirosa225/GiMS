@@ -1,0 +1,3 @@
+C:\Users\Константин и Лариса\Downloads\Example_source-20230925T150102Z-001\Example_source\bmp_editor\Debug\bmp_editor.exe
+C:\Users\Вадим\Desktop\Example_source-20230925T150102Z-001\Example_source\bmp_editor\Debug\bmp_editor.exe
+E:\Trash\Gims\Example_source-20230925T150102Z-001\Example_source\bmp_editor\Debug\bmp_editor.exe
