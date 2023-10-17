@@ -1,0 +1,18 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  bmp_editor.cpp
+E:\Example_source\bmp_editor\bmp_editor.cpp(169,5): warning C4838: Преобразование из "WORD" в "BYTE" требует сужающего преобразования.
+E:\Example_source\bmp_editor\bmp_editor.cpp(169,5): warning C4244: инициализация: преобразование "WORD" в "BYTE", возможна потеря данных
+E:\Example_source\bmp_editor\bmp_editor.cpp(170,5): warning C4838: Преобразование из "LONG" в "DWORD" требует сужающего преобразования.
+E:\Example_source\bmp_editor\bmp_editor.cpp(171,73): warning C4838: Преобразование из "DWORD" в "WORD" требует сужающего преобразования.
+E:\Example_source\bmp_editor\bmp_editor.cpp(171,73): warning C4244: инициализация: преобразование "DWORD" в "WORD", возможна потеря данных
+E:\Example_source\bmp_editor\bmp_editor.cpp(196,7): warning C4101: buf: неиспользованная локальная переменная
+E:\Example_source\bmp_editor\bmp_editor.cpp(238,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(281,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(283,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(295,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(297,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(309,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(311,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Example_source\bmp_editor\bmp_editor.cpp(346,20): warning C4018: <: несоответствие типов со знаком и без знака
+bmp_editor.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  bmp_editor.vcxproj -> E:\Example_source\bmp_editor\Debug\bmp_editor.exe
